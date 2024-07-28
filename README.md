@@ -6,24 +6,23 @@ Atliq Hardware (imaginary company) is one of the leading computer hardware produ
 
 Tasks:
 
-There are 10 ad-hoc requests for which the business needs insights.
+-> There are 10 ad-hoc requests for which the business needs insights.
 
-Task is to write SQL queries to answer these requests.
+-> Task is to write SQL queries to answer these requests.
 
-Create presentation to show insights to Top-Level Management.
+-> Create presentation to show insights to Top-Level Management.
 
 Three things I learned from this challenge:
 
-Querying the database for business insights required the use of many important SQL concepts such as CTE, Multiple Joins, Subqueries, Window functions, and so on.
+-> Querying the database for business insights required the use of many important SQL concepts such as CTE, Multiple Joins, Subqueries, Window functions, and so on.
 
-I learned about fiscal years, gross sales, and converting years to fiscal years.
+-> I learned about fiscal years, gross sales, and converting years to fiscal years.
 
-Using Canva's various features to create effective presentation slides
 
 Tools used:
 
-MYSQL Workbench: To query data from the database.
+-> MYSQL Workbench: To query data from the database.
 
-Power BI Desktop: To visualize data.
+-> Power BI Desktop: To visualize data.
 
-Canva: To create presentation slides.
+-> Microsoft Powerpoint to create presenation slides.
